@@ -59,3 +59,5 @@ We align our mission with **SDG 8 ñ Decent Work and Economic Growth**, facilita
 
 SDG & impact repo:  
 https://github.com/stellarapp/stellarapp-sdg8-commitment (example)
+
+For more details, visit the official platform: https://www.stellar-app.net
